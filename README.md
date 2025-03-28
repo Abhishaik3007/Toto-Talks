@@ -12,7 +12,11 @@
 ## 🛠 **Tech Stack**
 
 - **Language:** Python  
-- **Library:** Tkinter  
+- **Libraries:**
+  - Tkinter (customtkinter)
+  - langchain
+  - langchain_ollama
+  - PIL
 
 ## 🚀 **How to Run?**
 
