@@ -2,7 +2,7 @@
 
 **Toto Talks** is a simple and interactive **chatbot application** built using Python and Tkinter. It provides a fun chat experience with pre-defined responses, making it a great beginner-friendly AI assistant.  
 
-## **Features**
+## ✨ **Features**
 
 ✅ **User-friendly GUI** built with Tkinter  
 ✅ **Quick and responsive chatbot replies**  
