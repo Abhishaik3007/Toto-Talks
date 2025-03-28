@@ -2,29 +2,43 @@
 
 **Toto Talks** is a simple and interactive **chatbot application** built using Python and Tkinter. It provides a fun chat experience with pre-defined responses, making it a great beginner-friendly AI assistant.  
 
-## ✨ **Features**  
+## **Features**
+
 ✅ **User-friendly GUI** built with Tkinter  
 ✅ **Quick and responsive chatbot replies**  
 ✅ **Lightweight and easy to run**  
 ✅ **Customizable responses**  
 
-## 🛠 **Tech Stack**  
-- **Language:** Python  
-- **Library:** Tkinter  
+## 🛠 **Tech Stack**
 
-## 🚀 **How to Run?**  
-1. **Clone this repository**  
-   git clone https://github.com/Abhishaik3007/Toto-Talks.git
+- **Language:** Python  
+- **Libraries:**
+  - Tkinter (customtkinter)
+  - langchain
+  - langchain_ollama
+  - PIL
+
+## 🚀 **How to Run?**
+
+1. **Clone this repository**
+
+   ```bash
+      git clone https://github.com/Abhishaik3007/Toto-Talks.git
+   ```
 
 2. **Navigate to the folder**
-   
-   cd Toto-Talks
 
-4. **Run the Application**
-   
-   python main.py
+   ```bash
+      cd Toto-Talks
+   ```
 
-**ScreenShots**
+3. **Run the Application**
+
+   ```bash
+      python Talking_Toto.py
+   ```
+
+## **Screenshots**
 
 ![Toto_Talks](https://github.com/user-attachments/assets/e14c5090-1e98-49f8-91b3-19dfbf619aa2)
 
@@ -32,7 +46,6 @@
 
 ![Screenshot 2024-12-31 052218](https://github.com/user-attachments/assets/621762ea-c40d-4e98-9316-43080ca5528b)
 
-   
 🎨 **UI Assets**
 
 All icons and UI elements are stored in the assets/ folder.
